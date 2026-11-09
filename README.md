@@ -8,6 +8,9 @@
   <a href="mailto:mathieu.dfn@gmail.com">
     <img src="https://img.shields.io/badge/Email-mathieu.dfn%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://app.hackthebox.com/profile/gxlden" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-gxlden-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Hack The Box" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Paris%2C%20France-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paris, France" />
   <img src="https://img.shields.io/badge/English-B2%2B%20TOEIC-8b5cf6?style=for-the-badge&logo=duolingo&logoColor=white" alt="TOEIC B2" />
 </p>
@@ -64,6 +67,7 @@
 
 - 🌐 **Portfolio Website** : [Visiter mon site web](https://gitlab.com/mathieudofonou798/site-web-perso)
 - 💼 **GitHub** : [@gxldenfufu](https://github.com/gxldenfufu)
+- 🎯 **Hack The Box** : [@gxlden](https://app.hackthebox.com/profile/gxlden)
 - ✉️ **Email** : [mathieu.dfn@gmail.com](mailto:mathieu.dfn@gmail.com)
 
 <div align="center">
