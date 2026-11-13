@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%40+EPITA+x+Polytechnique;Exchange+Student+%40+HKMU+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0;Passionate+about+Cybersecurity+%26+Artificial+Intelligence;C+%E2%80%A2+Python+%E2%80%A2+Linux+%E2%80%A2+Networks+%E2%80%A2+Pentest)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://site-web-perso-three.vercel.app" target="_blank">
+  <a href="https://mathieu-dfn.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-site--web--perso-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="mailto:mathieu.dfn@gmail.com">
@@ -68,7 +68,7 @@
 
 ### 📬 Get in Touch
 
-- 🌐 **Portfolio Website** : [site-web-perso-three.vercel.app](https://site-web-perso-three.vercel.app)
+- 🌐 **Portfolio Website** : [mathieu-dfn.vercel.app](https://mathieu-dfn.vercel.app)
 - 💼 **GitHub** : [@gxldenfufu](https://github.com/gxldenfufu)
 - 🎯 **Hack The Box** : [@gxlden](https://app.hackthebox.com/profile/gxlden)
 - ✉️ **Email** : [mathieu.dfn@gmail.com](mailto:mathieu.dfn@gmail.com)
