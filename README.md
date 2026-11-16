@@ -57,15 +57,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gxldenfufu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=60a5fa" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gxldenfufu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</div>
-
----
-
 ### 📬 Get in Touch
 
 - 🌐 **Portfolio Website** : [mathieu-dfn.vercel.app](https://mathieu-dfn.vercel.app)
